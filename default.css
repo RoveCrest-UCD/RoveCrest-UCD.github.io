@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #333333;
+		background: #0a2034;
 		font-family: 'Varela', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
@@ -476,21 +476,21 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
-		border-top: 1px solid rgba(255,255,255,0.08);
+		/*padding: 5em 0em;*/
+		border-top: 1px solid #dc572e;
 	}
 	
 	#copyright p
 	{
 		text-align: center;
 		font-size: 1em;
-		color: rgba(255,255,255,0.5);
+		color: #dc572e;
 	}
 	
 	#copyright a
 	{
 		text-decoration: none;
-		color: rgba(255,255,255,0.8);
+		color: #dc572e;
 	}
 
 /*********************************************************************************/
